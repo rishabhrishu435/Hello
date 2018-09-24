@@ -1,2 +1,3 @@
-# Hello
-simple hello program
+
+simple hello program for learning
+
